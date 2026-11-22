@@ -1,4 +1,7 @@
 # Google Play Store Analysis
+## Colab Notebook
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1S6gLpY2e_ubVWicG0JgmOT_c_bODt_nr?usp=sharing)
 
 ## Research Question
 
