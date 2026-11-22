@@ -1,5 +1,13 @@
 # Google Play Store Analysis
 
+## Research Question
+
+How does the average rating of apps and the number of installs vary according to the Category, and whether the app is free or paid (Type) on the Google Play Store?
+
+## Project Objective
+
+Load Google Play Store apps data from Kaggle, explore its initial structure and quality in Google Colab, and then prepare it for the rest of the cleaning, analysis, and visualization stages.
+
 A collaborative data cleaning, merging, and analysis repository for Google Play Store applications and user reviews data.
 
 ## Repository Structure
