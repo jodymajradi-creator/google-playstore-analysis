@@ -17,6 +17,7 @@ A collaborative data cleaning, merging, and analysis repository for Google Play 
 
 ## TEAM MEMBERS:-
 
-* judi majradi-448815757
-* mozon saeed-448815731 
-* Raghad Almastor-448816193
+* Judi Majradi - 448815757
+* Mozon Saeed - 448815731 
+* Raghad Almastor - 448816193
+* Manal Krairi - 448816720
